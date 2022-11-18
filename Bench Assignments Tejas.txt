@@ -1,0 +1,4 @@
+Deployment on Web Application on PAAS Git hub link -https://github.com/dharshanshub/BenchAssignments-Tejas
+
+Deployemet on AKS - I have started my deployment and i have deployed my web api on Azure AKS still i need to deploy my angular after the completion of deployment.
+I will document the task 
