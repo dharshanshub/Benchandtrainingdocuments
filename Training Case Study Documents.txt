@@ -3,4 +3,7 @@ Training Case Study Documents
 Case Study Name : CropDeal
  
 GitHub Link Of HLD,LLD,WebAPI,Angular UI, Db Script - https://github.com/dharshanshub/CropDealCaseStudy
+GitHub Link For Angular UI - https://github.com/dharshanshub/CropDealUI
+GitHub Link For WebAPI- https://github.com/dharshanshub/CropDealWebApi
+GitHub Link For DB script - https://github.com/dharshanshub/CropDealDB
 
