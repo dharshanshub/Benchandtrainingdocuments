@@ -1,0 +1,3 @@
+Password Encryption - using Hmac sha256 algorithm and the password will be converted to salt and hash and stored to the DB.
+Mail sending - using Google SMTP.
+Exception Logging In DB and in local mission in case of Database failure.
